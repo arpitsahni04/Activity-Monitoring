@@ -6,3 +6,7 @@
 
 4)	Load project images into VideoGenerator.py to stitch the images into output video. 
     a.	Output Video stored as MAPS.mp4
+
+![person](Assets/person.gif)
+
+![point](Assets/point.gif)
