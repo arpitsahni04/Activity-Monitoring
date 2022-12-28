@@ -1,4 +1,9 @@
 ## General Construction Site Hazard Detection Code Workflow
+
+Abstract: 
+This Scripts enables to track workers in 3-D space with just a RGB Camera Feed and floor plans of the monitered area.   
+
+Steps to run:
 1)  clone the official YoloV7 official repo pip install requirements.txt file
 2)	Replace the detect and train files in the Yolov7 original repo. Run inference by using trained weights on your frames to identify workers and output their frame-frame feet positions.
 
